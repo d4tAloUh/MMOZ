@@ -1,0 +1,5 @@
+/snap/clion/163/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/alouh/Projects/MMOZ/01Karmeliuk
+-- Found OpenCV: /usr/local (found version "4.5.3") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alouh/Projects/MMOZ/01Karmeliuk/cmake-build-debug

@@ -1,0 +1,3 @@
+/home/alouh/Projects/MMOZ/02Karmeliuk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alouh/Projects/MMOZ/02Karmeliuk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alouh/Projects/MMOZ/02Karmeliuk/cmake-build-debug/CMakeFiles/01Karmeliuk.dir
